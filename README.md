@@ -10,3 +10,4 @@ I have created a fully functional text box that implements the following functio
 7. "Add Text" button is present at the bottom, below the text-box, which allows the user to add text to the text-box.
 8. The text-box has an aesthetically pleasing background image which provides a little personalized touch to the user and appelas to the user.
 I built this application using Quill.js, to create the text-box and toolbar. HTML, CSS and JavaScript were the primarily used technology.
+Additionally, I have also designed a navbar on top, that gives a general branding and idea to the user about our website. 
