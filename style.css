@@ -78,6 +78,7 @@ body {
     background-color: #F4F0E5;
     border: 4px solid #b00300;
     width: 1200px;
+    position: relative;
 }
 #toolbar-container {
     border: 4px solid #B00300;
@@ -114,4 +115,12 @@ body {
     width: 150px;
     font-family: fiona;
     font-size: 25px;
+}
+.draggable-text {
+    border: 2px solid #b00300;
+    background-color: #f0c775;
+    display: inline-block;
+    position: absolute;
+    cursor: move;
+    padding: 5px;
 }
